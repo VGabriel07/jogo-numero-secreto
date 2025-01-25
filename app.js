@@ -1,7 +1,7 @@
 // Declara uma array(lista) vazia para armazenar os números já sorteados.
 let listaNumerosSorteados = [];
 // Declara uma variável que define o limite máximo dos números a serem sorteados (neste caso, de 1 a 10).
-let limiteDeNumeros = 10;
+let limiteDeNumeros = 100;
 // Gera o número secreto aleatório na primeira vez que o código é executado.
 let numeroSecreto = gerarNumeroAleatorio();
 // Inicializa o contador de tentativas com 1.
@@ -24,7 +24,7 @@ function apagarTentativas() {
 
 // Exibe o título e a mensagem inicial do jogo na tela. Referente aos elementos h1 e p do HTML.
 exibirTextoNaTela("h1", "Jogo do número secreto");
-exibirTextoNaTela("p", "Escolha um número entre 1 e 10");
+exibirTextoNaTela("p", "Escolha um número entre 1 e 100");
 // Limpa o campo de tentativas no início.
 apagarTentativas();
 
