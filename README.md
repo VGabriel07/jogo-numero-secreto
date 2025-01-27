@@ -25,4 +25,23 @@ Um jogo simples onde o objetivo é adivinhar o número secreto no menor número 
 Projeto desenvolvido durante o curso de lógica de programação no processo seletivo da [ONE - Oracle Next Education](https://www.oracle.com/br/education/oracle-next-education/) na [Alura](https://www.alura.com.br/).
 
 ---
+
+# English Version 
+
+## Secret Number Game
+
+A simple game where the goal is to guess the secret number in as few tries as possible.
+
+<a href="https://numero-secreto-six-theta.vercel.app/" title="Jogue agora"> 🎮 Click here to play now!</a>
+
+## 💻 Project created with
+
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+
+------
+
 ⌨ com 💙 por Victor Fortunato
