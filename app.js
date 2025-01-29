@@ -32,6 +32,11 @@ apagarTentativas();
 function verificarChute() {
     // Obtém o valor digitado pelo usuário no campo de input.
     chute = document.querySelector("input").value;
+    // Verifica se o input esta vazio e retorna uma mensagem na tela.
+    if (chute === "") {
+        alert("Por favor, insira um número");
+        return;
+    }
     // Verifica se o chute é igual ao número secreto.
     if (chute == numeroSecreto) {
         // Determina se deve usar "tentativa" ou "tentativas" na mensagem.
